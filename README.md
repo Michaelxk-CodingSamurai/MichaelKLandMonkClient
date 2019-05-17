@@ -18,10 +18,19 @@
 npm install
 npm start
 ```
+Server-side code is in my `MichaelKLandMonkAPI` repository.
 
 ##Admin-Page
-![Admin-Page]
+![Admin-Page](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkClient/blob/master/Admin-Page.png?raw=true"Title")
 
+##Properties-List
+![Properties-List](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkClient/blob/master/Properties-List.png?raw=true"Title")
 
+##Property-Details
+![Property-Details](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkClient/blob/master/Property-Details.png?raw=true"Title")
 
-Server-side code is in my `MichaelKLandMonkAPI` repository.
+##Tenants-List
+![Tenants-List](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkClient/blob/master/Tenants-List.png?raw=true"Title")
+
+##EditUnits-Page
+![EditUnits-Page](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkClient/blob/master/EditUnits-Page.png?raw=true"Title")
